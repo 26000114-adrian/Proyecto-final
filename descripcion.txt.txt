@@ -1,0 +1,2 @@
+Descripción del Problema:
+Actualmente, la aseguradora TK-U en la ciudad de Jedha procesa sus cotizaciones de forma manual. Esto limita la capacidad de atención a solo 50 clientes por día, provocando retrasos significativos y la pérdida de clientes potenciales. El objetivo es automatizar el proceso mediante un programa que calcule instantáneamente el precio final del seguro basándose en el perfil del asegurado, incluyendo su edad, estado civil, número de hijos, propiedades y nivel salarial.

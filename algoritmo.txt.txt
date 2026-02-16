@@ -1,0 +1,10 @@
+Algoritmo del Procedimiento:
+1. Inicio: Definir el precio base de la cotización en Q.2,000.
+2. Ciclo Principal: Iniciar un bucle que se repita hasta que el usuario ingrese la palabra "Salir".
+3. Captura de Datos: Solicitar nombre y edad del asegurado.
+4. Validación de Edad: Si la edad es menor a 18 años, mostrar error y finalizar esa cotización.
+5. Cálculo de Recargos por Edad: Aplicar 10%, 20% o 30% según el rango de edad del asegurado (18-24, 25-49, 50+).
+6. Evaluación de Estado Civil: Si el asegurado está casado, solicitar la edad del cónyuge y aplicar el recargo correspondiente según su edad.
+7. Evaluación de Familia: Si tiene hijos, solicitar la cantidad y aplicar un recargo del 20% sobre el precio base por cada uno.
+8. Recargos Financieros (Extra): Solicitar cantidad de propiedades (35% de recargo por cada una) e ingresos mensuales (5% de recargo sobre el salario).
+9. Finalización de Ciclo: Sumar recargos al precio base, mostrar el total y preguntar si se desea realizar otra cotización.
